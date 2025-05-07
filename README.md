@@ -8,7 +8,7 @@ I'm a frontend-focused MERN stack developer passionate about building clean, fun
 
 - **Frontend**: React, Vite, Tailwind CSS, DaisyUI  
 - **Backend**: Node.js, Express.js, MongoDB  
-- **Tooling**: Git & GitHub, Figma, Postman (VSCode), REST APIs
+- **Tooling**: Git & GitHub, Figma, Postman , REST APIs
 
 ---
 
