@@ -7,7 +7,7 @@ I'm a frontend-focused MERN stack developer passionate about building clean, fun
 ## 🧰 Tech Stack
 
 - **Frontend**: React, Vite, Tailwind CSS, DaisyUI  
-- **Backend**: Node.js, Express.js, MongoDB  
+- **Backend**: Node.js, Express.js, MongoDB, Firebase, Supabase  
 - **Tooling**: Git & GitHub, Figma, Postman , REST APIs
 
 ---
